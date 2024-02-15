@@ -1,0 +1,15 @@
+D:\dotNet\Testing\TablesApp\TablesApp\bin\Debug\net6.0\TablesApp.exe
+D:\dotNet\Testing\TablesApp\TablesApp\bin\Debug\net6.0\TablesApp.deps.json
+D:\dotNet\Testing\TablesApp\TablesApp\bin\Debug\net6.0\TablesApp.runtimeconfig.json
+D:\dotNet\Testing\TablesApp\TablesApp\bin\Debug\net6.0\TablesApp.dll
+D:\dotNet\Testing\TablesApp\TablesApp\bin\Debug\net6.0\TablesApp.pdb
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.AssemblyInfoInputs.cache
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.AssemblyInfo.cs
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.sourcelink.json
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.dll
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\refint\TablesApp.dll
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.pdb
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\TablesApp.genruntimeconfig.cache
+D:\dotNet\Testing\TablesApp\TablesApp\obj\Debug\net6.0\ref\TablesApp.dll
